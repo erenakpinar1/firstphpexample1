@@ -1,0 +1,13 @@
+{
+ 	"require": {
+ 		"psr/log": "dev-master",
+ 	 	"illuminate/database": "^5.4"
+	},
+   "autoload": {
+		"classmap": [
+			"models",
+			"controller",
+			"views"
+		]
+    }
+}
