@@ -1,10 +1,7 @@
 <?php
-//use App\Controller;
 session_start();
 ob_start();
-
 require "start.php";
-
 require "classes/View.php";
 require "classes/FileManager.php";
 require "classes/Session.php";
