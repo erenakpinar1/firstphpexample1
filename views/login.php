@@ -1,6 +1,5 @@
 <?php
 echo $status;
-
 ?>
 <h2><a href="index.php?route=Person">Person List</a></h2><br>
 <form action="index.php?route=Login" method="post">

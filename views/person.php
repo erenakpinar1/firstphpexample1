@@ -7,9 +7,9 @@
 <script>
     $(document).ready(function () {
        swal({
-            title: "Error!",
+            title: "Hoooo!",
             text: "Here's my error message!",
-            type: "error",
+            type: "success",
             confirmButtonText: "Cool"
         });
     });
